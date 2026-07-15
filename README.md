@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TransitOps — Startup Script
 
 ## 1. Setup Backend
@@ -34,3 +35,6 @@ npm run dev
 - Visit https://console.neon.tech
 - Wake the database
 - Then re-run: `npx prisma db push`
+=======
+# Smart-Transport-Operation-Application
+>>>>>>> 76fa3336baf357273624ae033e2c01055917f40c
